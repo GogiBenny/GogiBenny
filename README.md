@@ -20,7 +20,7 @@
 - Node.js
 - HTML
 - CSS
-- User Acceptance Testing
+- Unit Testing with Jest
 - Data Analysis
 
 #### Certifications
