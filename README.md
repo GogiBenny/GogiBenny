@@ -7,10 +7,6 @@
 - 🏢 Co-op with IBM's GARS Web and Analytics Team.
 - 🛠 Skilled in JavaScript, NodeJS, HTML, and CSS.
   
-#### Interests
-- 💹 Enhancing the trading community through tech solutions.
-- ✝ Contributing to Christian-focused projects.
-  
 #### How to Reach Me
 - 📩 [LinkedIn](https://www.linkedin.com/in/gogibenny/)
 - 📧 Email: gogibenny@outlook.com
