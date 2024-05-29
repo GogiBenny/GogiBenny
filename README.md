@@ -3,7 +3,7 @@
 👨‍💻 **Web Developer** | 🌐 **Blockchain Enthusiast** | 🤝 **Open for Collaboration**
 
 #### About Me
-- 📚 Pursuing an associate degree in Web Development.
+- 📚 Associate degree in Web Development.
 - 🏢 Co-op with IBM's GARS Web and Analytics Team.
 - 🛠 Skilled in JavaScript, NodeJS, HTML, and CSS.
   
