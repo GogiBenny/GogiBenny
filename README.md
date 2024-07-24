@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm GogiBenny
 
-👨‍💻 **Web Developer** | 🌐 **Blockchain Enthusiast** | 🤝 **Open for Collaboration**
+👨‍💻 **Web Developer** | 🤝 **Open for Collaboration**
 
 #### About Me
 - 📚 Associate degree in Web Development.
