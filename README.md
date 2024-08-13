@@ -26,4 +26,9 @@
 - Software Engineer Intern @ IBM
 - Software QA Intern @ IBM
 
+
+#### Stats
+
+![Gogi's GitHub stats](https://github-readme-stats.vercel.app/api?username=GogiBenny&show_icons=true&theme=monokai)
+
 📈 **Always Learning, Always Growing.**
